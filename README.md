@@ -2,7 +2,7 @@
 河北工业大学 小爱课程表 导入规则适配
 
 [![](https://img.shields.io/badge/%E5%BC%80%E5%8F%91%E8%80%85-杰瑞雾里-brightgreen)](https://www.wangjiayi.cool)
-![](https://img.shields.io/badge/dynamic/json?color=blue&label=%E4%BD%BF%E7%94%A8%E4%BA%BA%E6%95%B0&query=positive&url=http://82.157.153.212:8082/)
+![](https://img.shields.io/badge/dynamic/json?color=blue&label=%E4%BD%BF%E7%94%A8%E4%BA%BA%E6%95%B0&query=usage&url=http://82.157.153.212:8082/)
 ![](https://img.shields.io/badge/dynamic/json?color=red&label=%E5%A5%BD%E8%AF%84%E7%8E%87&query=good_rate&url=http://82.157.153.212:8082/)
 
 
